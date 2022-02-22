@@ -1,0 +1,72 @@
+body{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+ p{
+   color: white;
+ 	text-align:left;
+ }
+ #foto{
+ 	width: 100%;
+ }
+ .paginahistoria{
+   position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+position: absolute;
+top: 110px;
+right: 0px;
+
+}
+nav li{
+   display: inline;
+   margin: 0 0 0 15px;
+}
+nav a{
+   text-transform: uppercase;
+   color:white;
+   font-weight: bolder;
+   text-decoration: none;
+}
+nav a:hover{
+   color: purple;
+   text-decoration: underline;
+
+}
+
+ h2 {
+   color: white;
+ 	 text-align:center
+ }
+ h3{
+    text-align: center;
+ }
+ #marca{
+    width: 100%;
+ }
+ #foto2{
+  width: 100%;
+ }
+ body {
+ 	background-color: black;
+ }
+ strong {
+ 	color: purple;
+ }
+ footer{
+   text-align: center;
+   background: black;
+}
+ .copyright{
+   text-align: center;
+   color: white;
+   font-size: 13px;
+   margin-top: 20px;
+}
+main{
+  width: 940px;
+  margin: 0 auto;
+}

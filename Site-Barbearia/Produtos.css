@@ -1,0 +1,87 @@
+body{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+Header{
+	background:white;
+
+
+}
+.caixa{
+	position: relative;
+	 width: 940px;
+	 margin: 0 auto;
+}
+
+nav{
+position: absolute;
+top: 110px;
+right: 0px;
+
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+nav a{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bolder;
+	text-decoration: none;
+}
+nav a:hover{
+   color: purple;
+   text-decoration: underline;
+
+}
+.produtos{
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+.produtos li:hover{
+   border-color: purple;
+}
+.produtos li:hover h2{
+	font-size: 34px;
+}
+.produtos li:active{
+	border-color: blue;
+}
+.produtos li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border-color: black;
+	border-width: 2px ;
+	border-style: solid;
+	border-radius: 40px;
+
+}
+.produtos h2{
+	font-size: 30px;
+	font-weight: bolder;
+}
+.descriçao {
+	font-size: 16px;
+	font-weight: bolder;
+}
+.preço{
+   font-size: 18px;
+   font-weight: bolder;
+   font-style: italic;
+   color: red;
+}
+footer{
+	text-align: center;
+	background: white;
+}
+.copyright{
+	color: black;
+	font-size: 13px;
+	margin-top: 20px;
+}
+

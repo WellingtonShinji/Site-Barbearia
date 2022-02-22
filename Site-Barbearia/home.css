@@ -1,0 +1,83 @@
+body{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+Header{
+	background:white;
+}
+.pagina4{
+	position: relative;
+	 width: 940px;
+	 margin: 0 auto;
+}
+.caixa{
+   position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+position: absolute;
+top: 110px;
+right: 0px;
+
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+#foto3{
+	width: 100%;
+}
+#fotohome{
+	width: 50%;
+}
+.principal{
+	text-align: center;
+	background: white;
+	clear: left;
+}
+.utensilios{
+	float: left;
+	width: 120px;
+	margin: 0 20px 20px 0;
+}
+.beneficios:{
+	text-align: left;
+   background: white;
+}
+h3{
+	font-size: 2em;
+}
+p{
+
+   color: black;
+ 	text-align:center;
+ 	font-size: 20px;
+ }
+ .beneficios li{
+ 	color: black;
+ 	text-align:left;
+ 	font-size: 30px;
+ }
+ iframe{
+ 	width: 100%;
+ }
+nav a{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bolder;
+	text-decoration: none;
+}
+nav a:hover{
+   color: purple;
+   text-decoration: underline;
+}
+footer{
+	text-align: center;
+	background: white;
+}
+.copyright{
+	color: black;
+	font-size: 13px;
+	margin-top: 20px;
+}
